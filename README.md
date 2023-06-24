@@ -1,1 +1,37 @@
-# amazon-log-holder
+<p align="center">
+	<a href="https://imgbox.com/MCYY4QfC" target="_blank">
+	<img src="https://thumbs2.imgbox.com/08/ba/MCYY4QfC_t.jpg" alt="image host"/>
+	</a>
+</p>
+
+```
+# Samples
+-----------------------------------------------------------------
+# Email :: stevocolla@yahoo.com
+# Password :: Goo[Purchase for more]
+-----------------------------------------------------------------
+# Bank :: CHASE
+# Type :: VISA - CREDIT
+# Level :: TRADITIONAL
+# Card Holder :: steven a. colla
+# Card Number :: 4147202472092392
+# Expired :: 12/25
+# CVV :: 1[Purchase for more]
+# Amex CID :: -
+# Account Number :: -
+# Sort Code :: -
+# Credit Limit :: -
+# For Check :: 4147202472092392|12|25|[Purchase for more]
+-----------------------------------------------------------------
+# Card Password :: -
+# WEB ID :: -
+-----------------------------------------------------------------
+# Full Name :: Steve Colla
+# Address 1 :: 3050 Portside Dr.
+# See more samples on > view code
+```
+
+## More
+i don't give services like this anymore
+<br>just don't use for something bad</br>
+ask and more about this, message [me](https://instagram.com/ppahme).
