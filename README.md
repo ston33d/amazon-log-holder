@@ -28,7 +28,7 @@
 -----------------------------------------------------------------
 # Full Name :: Steve Colla
 # Address 1 :: 3050 Portside Dr.
-# See more samples on > view code
+# See more sample on > samples
 ```
 
 ## More
